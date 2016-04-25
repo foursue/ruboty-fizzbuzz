@@ -1,4 +1,5 @@
 require "ruboty/fizzbuzz/version"
+require "ruboty/handler/fizzbuzz"
 
 module Ruboty
   module Fizzbuzz
